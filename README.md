@@ -9,6 +9,7 @@
 - Twitter        : https://twitter.com/bram0511
 - Telegram       : https://t.me/Kontak_AbrahamYusuf
 - Instagram      : https://instagram.com/ab129h9m
+- Medium         : https://abrahamyusuf.medium.com
 - Blog           : https://abrahamyusuf.my.id
 
 <!---
