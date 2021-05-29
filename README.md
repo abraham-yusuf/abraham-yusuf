@@ -6,7 +6,6 @@
 - Email          : kontak.abrahamyusuf@gmail.com or kontak@abrahamyusuf.my.id
 - Facebook       : https://fb.me/AbrahamYusuf1105
 - LinkedIn       : https://linkedin.com/in/abraham-yusuf
-- Twitter        : https://twitter.com/bram0511
 - Telegram       : https://t.me/Kontak_AbrahamYusuf
 - Instagram      : https://instagram.com/ab129h9m
 - Medium         : https://abrahamyusuf.medium.com
