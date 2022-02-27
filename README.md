@@ -10,6 +10,7 @@
 - Instagram      : https://instagram.com/ab129h9m
 - Medium         : https://abrahamyusuf.medium.com
 - Blog           : https://abrahamyusuf.my.id
+- CV             : https://dev.page/abrahamyusuf
 
 <!---
 abraham-yusuf/abraham-yusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
