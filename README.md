@@ -10,6 +10,7 @@
 - Instagram      : https://instagram.com/abrahamyusuf.my.id
 - Medium         : https://abrahamyusuf.medium.com
 - Blog           : https://abrahamyusuf.my.id
+- Google Dev     : https://g.dev/abrahamyusuf
 - CV             : https://dev.page/abrahamyusuf
 
 <a href="https://app.daily.dev/abrahamyusuf"><img src="https://api.daily.dev/devcards/6f03412e4e6d458a8a04c0a911250c59.png?r=0in" width="400" alt="Abraham Yusuf's Dev Card"/></a>
