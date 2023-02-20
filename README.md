@@ -6,7 +6,7 @@
 ## Follow me on
 - [Twitter](https://twitter.com/bram0511)
 - [Facebook](https://fb.me/AbrahamYusuf1105)
-- [Instagram](https://instagram.com/abrahamyusuf.my.id)
+- [Instagram](https://www.instagram.com/abrahamyusuf.crypto)
 - [LinkedIn](https://linkedin.com/in/abraham-yusuf)
 - [Telegram](https://t.me/Kontak_AbrahamYusuf)
 - [Medium](https://abrahamyusuf.medium.com)
