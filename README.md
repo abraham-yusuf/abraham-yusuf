@@ -8,7 +8,7 @@
 - [Facebook](https://fb.me/AbrahamYusuf1105)
 - [Instagram](https://www.instagram.com/abrahamyusuf.crypto)
 - [LinkedIn](https://linkedin.com/in/abraham-yusuf)
-- [Telegram](https://t.me/Kontak_AbrahamYusuf)
+- [Telegram](https://t.me/AbrahamYusuf)
 - [Medium](https://abrahamyusuf.medium.com)
 - [Blog](https://www.abrahamyusuf.my.id)
 - [Google Dev](https://g.dev/abrahamyusuf)
