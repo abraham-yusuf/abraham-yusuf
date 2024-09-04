@@ -5,7 +5,6 @@
 - 📫 Contact me : [abrahamyusuf.crypto@mail3.me](mailto:abrahamyusuf.crypto@mail3.me)
 
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66d72e83553501e3c3f71bc8?variant=dark)](https://roadmap.sh)
 
 ## Follow me on
 - [Twitter](https://twitter.com/bram0511)
