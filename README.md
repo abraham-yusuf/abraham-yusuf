@@ -30,6 +30,13 @@ Saya adalah seorang **Web3 Developer** dan **Blockchain Enthusiast** yang berfok
 
 ---
 
+## Certified 
+See my certifications in 
+[Facebook](https://www.facebook.com/media/set/?vanity=AbrahamYusuf.crypto&set=a.2785444351782537) & 
+[LinkedIn](https://www.linkedin.com/in/abraham-yusuf/details/certifications/)
+
+---
+
 ## 🌟 Featured Projects
 
 ### 🆔 [Web3ID](https://www.web30.my.id/)
