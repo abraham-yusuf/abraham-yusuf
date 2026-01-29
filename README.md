@@ -17,7 +17,7 @@ Saya adalah seorang **Web3 Developer** dan **Blockchain Enthusiast** yang berfok
 
 ### 🎯 Current Focus
 
-- 🔭 Building **[Web3ID](https://github.com/Web3ID)**, **[Solana Pathway](https://github.com/abraham-yusuf/solana-pathway)**, **[XCreator402](https://github.com/abraham-yusuf/XCreator402)**, and **[Sleepygatekeeper x402](https://github.com/abraham-yusuf/sleepygatekeeper-x402)**
+- 🔭 Building **[Web3ID](https://github.com/Web3ID)**, **[Solana Pathway](https://github.com/abraham-yusuf/solana-pathway)**, **[XCreator402](https://github.com/abraham-yusuf/XCreator402)**, and **[SleepyGatekeeper x402](https://github.com/abraham-yusuf/sleepygatekeeper-x402)**
 - 🌱 Active contributor to **[Ethereum.org Translation Program](https://ethereum.org/contributing/translation-program/contributors/)** & **[Dexie.space](https://dexie.space/contributors)**
 - 💬 Ask me about **Blockchain, Ethereum, Solana, Web3 Development & Creator Tools**
 - 📫 Reach me: [Telegram](https://abrahamyusuf.t.me/)
@@ -69,7 +69,7 @@ Kumpulan materi, kode, dan panduan untuk membantu pengembang baru memahami dan m
 
 Platform inovatif untuk kreator konten dengan fitur-fitur canggih untuk manajemen dan distribusi konten digital.
 
-### 🔐 [Sleepygatekeeper x402 - Vibe Produk ID](https://github.com/abraham-yusuf/sleepygatekeeper-x402)
+### 🔐 [SleepyGatekeeper x402 - Vibe Produk ID](https://github.com/abraham-yusuf/sleepygatekeeper-x402)
 > *Secure authentication and product identification system.*
 
 Sistem keamanan dan identifikasi produk yang mengintegrasikan teknologi modern untuk verifikasi dan autentikasi.
